@@ -65,9 +65,7 @@ python src/main.py
 
 ### Demo
 
-<p align="center">
-  <video src="assets/demo.mp4" controls width="700"></video>
-</p>
+![Demo](assets/demo.gif)
 
 ---
 
@@ -79,4 +77,4 @@ The tracking and clustering pipeline is functional but still being refined, espe
 
 ---
 
-Built as an experimental project for trying and visualizing particle filtering and multi-object tracking.
+Built as an experimental project for exploring and visualizing particle filtering and multi-object tracking.
