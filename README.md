@@ -34,15 +34,6 @@ Objects are not directly observed. Instead, the system estimates their positions
 
 ---
 
-## Usage
-```bash
-conda env create -f environment.yml
-conda activate particle-filter
-python src/main.py
-```
-
----
-
 ## Dependencies
 
 - Python 3.12
@@ -53,12 +44,17 @@ python src/main.py
 
 ---
 
+## Usage
+```bash
+conda env create -f environment.yml
+conda activate particle-filter
+python src/main.py
+```
+
+---
+
 ## Visualization
 
 ### Demo
 
 ![Demo](assets/demo.gif)
-
----
-
-Built as an experimental project for exploring and visualizing particle filtering and multi-object tracking.
