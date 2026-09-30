@@ -69,12 +69,4 @@ python src/main.py
 
 ---
 
-## Status
-
-⚠️ Work in progress
-
-The tracking and clustering pipeline is functional but still being refined, especially in terms of classification stability under noisy conditions.
-
----
-
 Built as an experimental project for exploring and visualizing particle filtering and multi-object tracking.
