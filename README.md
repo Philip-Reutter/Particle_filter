@@ -34,18 +34,10 @@ Objects are not directly observed. Instead, the system estimates their positions
 
 ---
 
-## Installation
-
-### Conda (recommended)
-
+## Usage
 ```bash
 conda env create -f environment.yml
 conda activate particle-filter
-```
-
-### Run
-
-```bash
 python src/main.py
 ```
 
